@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
+ id -nG
+=======
 group
+>>>>>>> 566164abf53054d11a07b595d938ecca68f51f73
